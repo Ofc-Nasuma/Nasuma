@@ -40,11 +40,6 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
-### 👇 `Todas las cuentas están aquí!!`
-[![Enlaces](https://img.shields.io/badge/GataBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/gatabot/)
-
-
 ### 🌟 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA 🫰
 [![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/PESW8LXXlOI?feature=share)
 > **Note** Comandos para instalar de forma automática en Termux  
@@ -147,3 +142,4 @@ npm start
 <div align="center">
 <img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
