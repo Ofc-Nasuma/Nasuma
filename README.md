@@ -337,4 +337,4 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ### 🌟 CREADORA 
 [![GataNina-Li](https://github.com/Ofc-nasuma.png?size=100)](https://github.com/Ofc-nasuma) 
-> Copyright (c) 2024 **[GataNina-Li](https://github.com/GataNina-Li/GataBot-MD/blob/master/LICENSE)**.
+> Copyright (c) 2024 **[Ofc-Nasuma](https://github.com/Ofc-Nasuma/GataBot-MD/blob/master/LICENSE)**.
