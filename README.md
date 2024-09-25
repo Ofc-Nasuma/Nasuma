@@ -317,7 +317,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 > Recuerda leer la **[Política de GataBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
   
 ----
-### 💠 [`IDIOMAS DISPONIBLES PARA GATABOT`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
+### 💠 [`IDIOMAS DISPONIBLES PARA AI OSHINO`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
 #### 🌐 Español  
 #### 🌐 Inglés (English) 
 #### 🌐 Portugués (Português)
