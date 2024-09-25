@@ -49,29 +49,7 @@ termux-setup-storage
 ```bash
 apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/gata.sh | bash
 ```
-### Edita lo siguiente si deseas usar este método de instalación en tú repositorio previamente hecho un fork
-```js
-// PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
-// Parámetros editables
 
-// REFERENCIA
-"wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/gata.sh | bash"
-
-// PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
-// Reemplace por su usuario de GitHub, y nombre del repositorio
-"wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/master/gata.sh | bash"
-```
-#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/GataNina-Li/GataBot-MD/blob/master/gata.sh)
-```js
-//LÍNEAS A MODIFICAR
-205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/GataNina-Li/GataBot-MD.git
-
-209 --> "cd [repositorio]"
-//Ejemplo: cd GataBot-MD
-
-//Una vez hecho estos cambios ejecute los nuevos comandos en Termux
-```
 -----
 ### 🪄 (OPCIÓN 2) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
 > **Note** Comandos para instalar de forma manual
