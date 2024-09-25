@@ -40,10 +40,6 @@
 
 
 
-<div align="center">
-<img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
 ### 👇 `Todas las cuentas están aquí!!`
 [![Enlaces](https://img.shields.io/badge/GataBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/gatabot/)
@@ -146,6 +142,8 @@ npm start
 ### 🌟 AGRADECIMIENTOS
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
 
-### 🌟 CREADORA 
+### 🌟 CREADOR
 [![GataNina-Li](https://github.com/Ofc-nasuma.png?size=100)](https://github.com/Ofc-nasuma) 
-> Copyright (c) 2024 **[Ofc-Nasuma](https://github.com/Ofc-Nasuma/GataBot-MD/blob/master/LICENSE)**.
+<div align="center">
+<img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
+</div>
