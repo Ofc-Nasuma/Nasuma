@@ -333,7 +333,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 </a>
 
 ### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
 
 ### 🌟 CREADORA 
 [![GataNina-Li](https://github.com/Ofc-nasuma.png?size=100)](https://github.com/Ofc-nasuma) 
