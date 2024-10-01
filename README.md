@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 
-## 🌺¡Hola!💮 Bienvenido(a) a mi perfil, soy Nasuma 🧧
+## 🌺¡Hola!💮 Bienvenido(a) 
 
 > **Entusiasta en el desarrollo de bots y tecnología.**
 
@@ -8,8 +8,6 @@
 
 > ` "La constancia vence lo que la dicha no alcanza.💌"`
 
-### 💖 Descubre más sobre mí y mis proyectos. ¡Únete y forma parte de nuestra comunidad tecnológica! ✨
-> `¡Juntos llevaremos la tecnología al siguiente nivel! 💎`
 
 <div align="center">
 <img src="https://qu.ax/FEaq.gif" width="150" alt="Ruby Oshino GIF"/>
