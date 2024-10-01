@@ -99,7 +99,7 @@ npm start
   
   
 ----
-### 💠 [`IDIOMAS DISPONIBLES PARA AI OSHINO`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
+### 💠 [`IDIOMAS DISPONIBLES PARA 𝘼𝙡𝙮𝙖`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
 #### 🌐 Español  
 #### 🌐 Inglés (English) 
 #### 🌐 Portugués (Português)
